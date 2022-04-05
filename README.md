@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Brenda Tavares!👋
 
-🌱 Atualmente estudo e desenvolvo em HTML, CSS, e JS!
+👩‍💻Atualmente estudo e desenvolvo em HTML, CSS, e JS!
 
 <div align="center">
   <a href="https://github.com/brendatavares">
