@@ -1,8 +1,4 @@
 ### Olá! Eu sou a Brenda Tavares!👋
 
-- 🌱 Atualmente estudo e desenvolvo em HTML, CSS, e JS!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns:
--->
+🌱 Atualmente estudo e desenvolvo em HTML, CSS, e JS!
+
